@@ -1,5 +1,25 @@
-template-repository (1.0-1) unstable; urgency=medium
+ocaml-bigarray-compat (1.1.0-3) unstable; urgency=medium
 
-  * Initial release
+  * Use ocaml_dune DH buildsystem
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Stéphane Glondu <glondu@debian.org>  Thu, 17 Aug 2023 09:40:38 +0200
+
+ocaml-bigarray-compat (1.1.0-2) unstable; urgency=medium
+
+  * Fix build with recent dune
+
+ -- Stéphane Glondu <glondu@debian.org>  Sat, 15 Jul 2023 07:15:57 +0200
+
+ocaml-bigarray-compat (1.1.0-1) unstable; urgency=medium
+
+  * New upstream release
+  * Update debian/watch
+  * Bump Standards-Version to 4.6.0
+
+ -- Stéphane Glondu <glondu@debian.org>  Wed, 02 Mar 2022 07:31:32 +0100
+
+ocaml-bigarray-compat (1.0.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #969069)
+
+ -- Stéphane Glondu <glondu@debian.org>  Thu, 27 Aug 2020 05:30:15 +0200
