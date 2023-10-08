@@ -1,0 +1,3 @@
+@OCamlStdlibDir@/bigarray-compat/META
+@OCamlStdlibDir@/bigarray-compat/*.cma
+DYN: @OCamlStdlibDir@/bigarray-compat/*.cmxs
