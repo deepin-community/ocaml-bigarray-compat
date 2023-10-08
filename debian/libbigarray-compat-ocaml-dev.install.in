@@ -1,0 +1,8 @@
+@OCamlStdlibDir@/bigarray-compat/*dune*
+@OCamlStdlibDir@/bigarray-compat/*opam*
+@OCamlStdlibDir@/bigarray-compat/*.cmi
+@OCamlStdlibDir@/bigarray-compat/*.cmt*
+@OCamlStdlibDir@/bigarray-compat/*.ml*
+OPT: @OCamlStdlibDir@/bigarray-compat/*.cmx
+OPT: @OCamlStdlibDir@/bigarray-compat/*.cmxa
+OPT: @OCamlStdlibDir@/bigarray-compat/*.a
